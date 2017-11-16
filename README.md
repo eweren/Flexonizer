@@ -1,9 +1,13 @@
 # Flexonizer
 
 Flexonizer is a simple application for tracking your tasks on your PC or Mac.
+
 It automatically categorizes your given tasks in the category A, B, or C.
+
 "A-Tasks" are your most recent and important tasks (<1 month until the deadline is reached)
+
 "B-Tasks" are important an categorized (> 1month and < 3 months ist orange, > 3 months is green)
+
 "C-Tasks" don't have a deadline and are not really important to do.
 
 This is, what the application looks like when having some tasks created:
